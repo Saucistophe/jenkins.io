@@ -4159,6 +4159,12 @@
 <changefreq>never</changefreq>
 </url>
 <url>
+<loc>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/browserconfig.xml</loc>
+<lastmod>2019-10-02</lastmod>
+<priority>0.5</priority>
+<changefreq>never</changefreq>
+</url>
+<url>
 <loc>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/changelog/</loc>
 <lastmod>2019-10-02</lastmod>
 <priority>0.5</priority>
@@ -15097,7 +15103,7 @@
 <changefreq>never</changefreq>
 </url>
 <url>
-<loc>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/sites/default/files/browserconfig.xml</loc>
+<loc>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/site.webmanifest</loc>
 <lastmod>2019-10-02</lastmod>
 <priority>0.5</priority>
 <changefreq>never</changefreq>
@@ -15212,12 +15218,6 @@
 </url>
 <url>
 <loc>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/sites/default/files/master/readme.txt</loc>
-<lastmod>2019-10-02</lastmod>
-<priority>0.5</priority>
-<changefreq>never</changefreq>
-</url>
-<url>
-<loc>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/sites/default/files/site.webmanifest</loc>
 <lastmod>2019-10-02</lastmod>
 <priority>0.5</priority>
 <changefreq>never</changefreq>

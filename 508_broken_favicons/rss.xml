@@ -3,13 +3,13 @@
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/</id>
 <title>Jenkins Blog</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <link rel="self" type="application/atom+xml" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/rss.xml" />
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/" />
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/10/01/hacktoberfest/</id>
 <title>Hacktoberfest 2019. Contribute to Jenkins!</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-10-01T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/10/01/hacktoberfest/" />
 <author>
@@ -225,7 +225,7 @@ You can find the full list &lt;a href=&quot;https://Saucistophe.github.io/jenkin
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/09/25/board-elections/</id>
 <title>2019 Jenkins Board and Officer elections. Nominations are open!</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-09-25T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/09/25/board-elections/" />
 <category term="community"></category>
@@ -349,7 +349,7 @@ I highly encourage everyone to consider participating.&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/09/23/outreachy-audit-log-release/</id>
 <title>Audit Log Plugin for Jenkins Releases 1.0</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-09-23T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/09/23/outreachy-audit-log-release/" />
 <author>
@@ -447,7 +447,7 @@ While I don’t intend on using this plugin for further Outreachy rounds, I do h
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/09/10/introducing-the-jira-software-plugin-for-jenkins/</id>
 <title>Introducing the Jira Software plugin for Jenkins</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-09-10T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/09/10/introducing-the-jira-software-plugin-for-jenkins/" />
 <author>
@@ -792,7 +792,7 @@ This is a guest post by Rafal Myslek from &lt;a href=&quot;https://www.atlassian
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/30/jenkins-cli/</id>
 <title>Managing Jenkins with jcli</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-30T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/30/jenkins-cli/" />
 <author>
@@ -985,7 +985,7 @@ jenkins_servers:
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/26/role-strategy-performance/</id>
 <title>Performance Improvements to Role Strategy Plugin</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-26T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/26/role-strategy-performance/" />
 <author>
@@ -1134,7 +1134,7 @@ out to me through either the
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/25/jenkinsworld-contrib-summit-ask-the-expert-booth/</id>
 <title>Jenkins World Contributor Summit and Ask the Expert booth</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-25T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/25/jenkinsworld-contrib-summit-ask-the-expert-booth/" />
 <author>
@@ -1355,7 +1355,7 @@ Or if you want to email us, reach out at: &lt;a href=&quot;https://jenkins.io/ma
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/23/introducing-gitlab-branch-source-plugin/</id>
 <title>Introducing new GitLab Branch Source Plugin</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-23T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/23/introducing-gitlab-branch-source-plugin/" />
 <author>
@@ -1743,7 +1743,7 @@ The GitLab Group project scans the projects, importing the pipeline jobs it iden
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/23/introduce-react-plugin-template/</id>
 <title>Introduce React Plugin Template</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-23T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/23/introduce-react-plugin-template/" />
 <author>
@@ -2078,7 +2078,7 @@ const crumbHeaderName = UrlConfig.getCrumbHeaderName();
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/22/devops-world/</id>
 <title>My DevOps World - Jenkins World 2019 Experience</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-22T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/22/devops-world/" />
 <author>
@@ -2260,7 +2260,7 @@ about CI/CD tools and practices, and made my first DevOps conference so enjoyabl
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/19/remoting-kafka-kubernetes-release-2/</id>
 <title>Remoting over Apache Kafka 2.0: Built-in Kubernetes support</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-19T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/19/remoting-kafka-kubernetes-release-2/" />
 <author>
@@ -2433,7 +2433,7 @@ statefulset.apps/demo-zookeeper   1/1     2m21s&lt;/code&gt;&lt;/pre&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/16/folder-auth-plugin/</id>
 <title>Introducing new Folder Authorization Plugin</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-08-16T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/08/16/folder-auth-plugin/" />
 <author>
@@ -2625,7 +2625,7 @@ out to me through either the
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/30/plugin-management-tool-phase2-updates/</id>
 <title>Plugin Management Library and CLI Tool Phase 2 GSoC Updates</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-30T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/30/plugin-management-tool-phase2-updates/" />
 <author>
@@ -2774,7 +2774,7 @@ We have meetings Tuesdays and Thursdays at 6PM UTC.&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/25/azure-artifact-manager/</id>
 <title>Managing Jenkins Artifacts with the Azure Artifact Manager Plugin</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-25T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/25/azure-artifact-manager/" />
 <author>
@@ -2962,7 +2962,7 @@ Several existing plugins allow you to manage your artifacts externally. To use t
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/21/Jenkins-code-coverage-diff-for-pull-request/</id>
 <title>Jenkins code coverage diff in pull requests</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-21T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/21/Jenkins-code-coverage-diff-for-pull-request/" />
 <author>
@@ -3058,7 +3058,7 @@ When you build a PR in Jenkins, using plugins like Github or...
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/17/DevOps-World-Jenkins-World-2019-San-Francisco-Lunch-Demos/</id>
 <title>DevOps World - Jenkins World 2019 San Francisco: Lunch Time Demos</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-17T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/17/DevOps-World-Jenkins-World-2019-San-Francisco-Lunch-Demos/" />
 <author>
@@ -3171,7 +3171,7 @@ Attendees will learn the...
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/15/pipeline-config-history-plugin/</id>
 <title>Introducing the Pipeline Configuration History Plugin</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-15T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/15/pipeline-config-history-plugin/" />
 <category term="pipeline"></category>
@@ -3315,7 +3315,7 @@ The Job Configuration History and Pipeline Configuration History plugins let us 
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/11/remoting-kafka-kubernetes-phase-1/</id>
 <title>Remoting over Apache Kafka plugin with Kafka launcher in Kubernetes</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-11T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/11/remoting-kafka-kubernetes-phase-1/" />
 <author>
@@ -3546,7 +3546,7 @@ statefulset.apps/demo-zookeeper   1/1     6m30s&lt;/code&gt;&lt;/pre&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/09/Phase1-Updates-On-Working-Hours-Plugin/</id>
 <title>GSOC Phase 1 Updates On Working Hours Plugin</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-09T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/09/Phase1-Updates-On-Working-Hours-Plugin/" />
 <author>
@@ -3767,7 +3767,7 @@ But we have to face a challenge of...
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/05/jenkins-pipeline-stage-result-visualization-improvements/</id>
 <title>Jenkins Pipeline Stage Result Visualization Improvements</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-05T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/05/jenkins-pipeline-stage-result-visualization-improvements/" />
 <author>
@@ -3912,7 +3912,7 @@ In order to fix this issue, we introduced a new Pipeline API that can be used to
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/02/plugin-management-tool-alpha-release/</id>
 <title>Plugin Management Library and CLI Tool Alpha Release</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-07-02T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/07/02/plugin-management-tool-alpha-release/" />
 <author>
@@ -4031,7 +4031,7 @@ We have meetings Tuesdays and Thursdays at 6PM UTC.&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/06/29/phase-1-multibranch-pipeline-support-for-gitlab/</id>
 <title>Multi-branch Pipeline Jobs Support for GitLab SCM</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-06-29T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/06/29/phase-1-multibranch-pipeline-support-for-gitlab/" />
 <author>
@@ -4591,7 +4591,7 @@ Support for GitLab&lt;/a&gt;. A lot of inspiration was drawn from &lt;code&gt;Gi
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/06/21/performance-testing-jenkins/</id>
 <title>Micro-benchmarking Framework for Jenkins Plugins</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-06-21T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/06/21/performance-testing-jenkins/" />
 <author>
@@ -4897,7 +4897,7 @@ the &lt;a href=&quot;mailto:jenkinsci-dev@googlegroups.com&quot;&gt;Jenkins Deve
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/06/03/DevOps-World-Jenkins-World-2019-San-Francisco-Agenda-is-Live/</id>
 <title>DevOps World-Jenkins World 2019 San Francisco: Agenda is Live</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-06-03T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/06/03/DevOps-World-Jenkins-World-2019-San-Francisco-Agenda-is-Live/" />
 <author>
@@ -5010,7 +5010,7 @@ This year’s DevOps World - Jenkins World 2019 San Francisco has moved to a lar
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/30/becoming-contributor-newbie-tickets/</id>
 <title>Becoming a Jenkins contributor: Newbie-friendly tickets</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-05-30T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/30/becoming-contributor-newbie-tickets/" />
 <author>
@@ -5374,7 +5374,7 @@ contribute, and every little helps!&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/22/outreachy-audit-log-project/</id>
 <title>Audit Logging in Jenkins: An Outreachy Project</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-05-22T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/22/outreachy-audit-log-project/" />
 <author>
@@ -5449,7 +5449,7 @@ Please extend a warm welcome to all our new contributors and community members f
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/11/docs-sig-announcement/</id>
 <title>Jenkins Documentation Special Interest Group</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-05-11T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/11/docs-sig-announcement/" />
 <author>
@@ -5559,7 +5559,7 @@ Login to GitHub with your credentials and add your review comments to pull reque
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/09/templating-engine/</id>
 <title>Introducing the Jenkins Templating Engine!</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-05-09T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/09/templating-engine/" />
 <author>
@@ -6068,7 +6068,7 @@ definition to a centralized location, the Templating Engine plugin allows DevOps
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/09/chinese-localization/</id>
 <title>A Big Step of the Chinese Localization</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-05-09T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/09/chinese-localization/" />
 <author>
@@ -6141,7 +6141,7 @@ I wish I could see more and more folks join us.&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/05/telemetry-success/</id>
 <title>First successful use of Jenkins telemetry</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-05-05T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/05/05/telemetry-success/" />
 <author>
@@ -6279,7 +6279,7 @@ I think this would simply be impossible.&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/04/03/security-advisory/</id>
 <title>Security spring cleaning</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-04-03T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/04/03/security-advisory/" />
 <author>
@@ -6322,7 +6322,7 @@ Today’s advisory is overwhelmingly such an advisory.&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/29/becoming-contributor-intro/</id>
 <title>The journey of becoming a Jenkins contributor: Introduction</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-03-29T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/29/becoming-contributor-intro/" />
 <author>
@@ -6585,7 +6585,7 @@ counts!&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/28/outreachy-review/</id>
 <title>Outreachy 2018-2019 In Review</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-03-28T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/28/outreachy-review/" />
 <author>
@@ -6677,7 +6677,7 @@ For more information about the next round, check out &lt;a href=&quot;https://ww
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/12/cdf-launch/</id>
 <title>Jenkins is joining the Continuous Delivery Foundation</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-03-12T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/12/cdf-launch/" />
 <author>
@@ -6746,7 +6746,7 @@ First, there will be no big disruption/discontinuity. The same people are still 
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/11/let-s-celebrate-java-11-support/</id>
 <title>Let&#39;s celebrate Java 11 Support on Jenkins</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-03-11T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/11/let-s-celebrate-java-11-support/" />
 <author>
@@ -6936,7 +6936,7 @@ It is a major step that will benefit users, developers, and members of the Jenki
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/04/gsoc2019-announcement/</id>
 <title>Jenkins is accepted to Google Summer Of Code 2019!</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-03-04T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/04/gsoc2019-announcement/" />
 <author>
@@ -7079,7 +7079,7 @@ In the Jenkins project we will also organize special events during and after GSo
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/01/devops-world-jenkins-world-cfp-open/</id>
 <title>DevOps World - Jenkins World 2019: Call for Papers is Open</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-03-01T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/03/01/devops-world-jenkins-world-cfp-open/" />
 <author>
@@ -7261,7 +7261,7 @@ The submission deadline for San Francisco, CA has been extended through March 24
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/28/serverless-jenkins/</id>
 <title>Run your Jenkins pipeline without operating a Jenkins instance</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-02-28T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/28/serverless-jenkins/" />
 <author>
@@ -7492,7 +7492,7 @@ We can get the whole log output from TravisCI, so this can be mitigated, but thi
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/26/jenkins-alexa-voice-controlled-cicd/</id>
 <title>Jenkins + Alexa: Say Hello to Voice Controlled CI/CD</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-02-26T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/26/jenkins-alexa-voice-controlled-cicd/" />
 <author>
@@ -7750,7 +7750,7 @@ For more detailed steps, I’ve collaborated with Cloud Academy to author a cour
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/21/credentials-masking/</id>
 <title>Limitations of Credentials Masking</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-02-21T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/21/credentials-masking/" />
 <author>
@@ -7881,7 +7881,7 @@ For example, a deployment pipeline that allows its users to define where to depl
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/17/remoting-cli-removed/</id>
 <title>Remoting-based CLI removed from Jenkins</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-02-17T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/17/remoting-cli-removed/" />
 <author>
@@ -7973,7 +7973,7 @@ As part of this change, some CLI commands, options, and option types in Jenkins 
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/06/ssh-steps-for-jenkins-pipeline/</id>
 <title>SSH Steps for Jenkins Pipeline</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-02-06T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/06/ssh-steps-for-jenkins-pipeline/" />
 <author>
@@ -8264,7 +8264,7 @@ node {
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/05/jenkins-new-year-in-china/</id>
 <title>Jenkins new year in China</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-02-05T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/05/jenkins-new-year-in-china/" />
 <author>
@@ -8327,7 +8327,7 @@ There are over 1k people subscribed the &lt;a href=&quot;https://mp.weixin.qq.co
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/01/windows-installers/</id>
 <title>Windows Installer Updates</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-02-01T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/02/01/windows-installers/" />
 <author>
@@ -8554,7 +8554,7 @@ releasing a version for each update.&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/21/fosdem-2019/</id>
 <title>FOSDEM 2019!</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-01-21T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/21/fosdem-2019/" />
 <author>
@@ -8683,7 +8683,7 @@ Those who would like to join us for the hackfest should register for the &lt;a h
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/09/jenkins-user-conference-china-shenzhen-update/</id>
 <title>Jenkins User Conference China - Shenzhen Update</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-01-09T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/09/jenkins-user-conference-china-shenzhen-update/" />
 <author>
@@ -8849,7 +8849,7 @@ Let’s be Kung fu Jenkins!&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/08/mpl-modular-pipeline-library/</id>
 <title>MPL - Modular Pipeline Library</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-01-08T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/08/mpl-modular-pipeline-library/" />
 <author>
@@ -9425,7 +9425,7 @@ interested in building an MPL, please contact us to learn more!&lt;/p&gt;
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/07/webhook-firewalls/</id>
 <title>Triggering builds with webhooks behind a secure firewall</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2019-01-07T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2019/01/07/webhook-firewalls/" />
 <author>
@@ -9605,7 +9605,7 @@ The...
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2018/12/26/gsoc-2019-call-for-mentors/</id>
 <title>Google Summer of Code 2019. Call for Project ideas and Mentors</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2018-12-26T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2018/12/26/gsoc-2019-call-for-mentors/" />
 <author>
@@ -9720,7 +9720,7 @@ mentors and participants on the &lt;a href=&quot;https://gitter.im/jenkinsci/gso
 <entry>
 <id>https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2018/12/25/year-in-review/</id>
 <title>2018 in Review: A year of innovation</title>
-<updated>2019-10-02T21:05:57+00:00</updated>
+<updated>2019-10-02T21:37:30+00:00</updated>
 <published>2018-12-25T00:00:00+00:00</published>
 <link rel="alternate" type="text/html" href="https://Saucistophe.github.io/jenkins.io/508_broken_favicons/blog/2018/12/25/year-in-review/" />
 <author>
